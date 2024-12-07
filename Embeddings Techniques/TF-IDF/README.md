@@ -54,3 +54,6 @@ Sentence 1 Vector - [0, 0.029, 0.029, 0.080, 0.080, 0.080, 0, 0, 0, 0]
 Sentence 2 Vector - [0, 0.044, 0.044, 0, 0, 0, 0, 0, 0, 0]
 
 Sentence 3 Vector - [0, 0, 0, 0, 0, 0, 0.095, 0.095, 0.095, 0.095]
+
+The above embeddings are calculated by mathematical calculations , however which is different from tf-idf used by sk-learn library , it adds smoothening term too.
+In practical implementations like sklearn's TfidfVectorizer, a smoothing term is added to the denominator to prevent division by zero and to handle other numerical stability issues
