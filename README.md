@@ -1,2 +1,1 @@
-# my-nlp-basics
-This is my repo , which contains some basic concepts (with or without code) related to nlp , which I need to review sometimes
+Welcome to my-nlp-basics! This repository is a curated collection of basic concepts and code snippets in natural language processing (NLP) that I use for periodic review. It is tailored to my learning needs, containing explanations and examples that help refresh my understanding of essential NLP topics. The content here is not exhaustive but focuses specifically on aspects that I frequently revisit to ensure clarity and aid in my ongoing learning. Whether it's through simplified explanations or practical code, this repository serves as my quick reference guide to NLP fundamentals.
