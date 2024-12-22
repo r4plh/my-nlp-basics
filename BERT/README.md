@@ -42,7 +42,7 @@ During the MLM pre-training, BERT randomly masks tokens in the input data and le
 - **10%** of the time, tokens are replaced with a random token.
 - **10%** of the time, tokens are left unchanged.
 
-This strategy helps BERT to effectively learn a deep bidirectional understanding of the language context.
+This strategy helps BERT to effectively learn a deep bidirectional understanding of the language context
 
 The loss function acts upon all the 15% of the mask tokens , that is including 80% MASK ones , 10% random tokens , 10% unchanged , on all the tokens the loss fucntion is applied , the loss is calculated against ground truth in all of the above cases.
 
