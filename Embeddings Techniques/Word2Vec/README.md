@@ -5,3 +5,7 @@ Why Word2Vec preffered over frequency based embeddings?
 2. The vector embedding size is less than compared to in freqeuency based methods as in freqeuncy based emthods a senytence repreeantion is the whole length of vocab and here it's relatively less and that's a big plus which will make computation faster 
 3. The embeddings in frquency based methiods have sparcity in them , and the word2vec are deep embeddings dense vectors which better captures the essence p of words and sentences.
 
+Word2Vec
+-> CBOW - output is target word and input is surrounding words , weights taken from middle layer to output layer for static embedding
+-> Skip-Gram - output is surroudning words and input is target word , weights taken from input to middle layer for static embedding
+
