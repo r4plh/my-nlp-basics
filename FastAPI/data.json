@@ -1,0 +1,38 @@
+{
+    "P001": {
+      "age": 29,
+      "weight": 70,
+      "height": 175,
+      "bmi": 22.9,
+      "address": "123 Maple Street, Springfield, IL, 62704"
+    },
+    "P002": {
+      "age": 45,
+      "weight": 82,
+      "height": 168,
+      "bmi": 29.0,
+      "address": "456 Oak Avenue, Denver, CO, 80203"
+    },
+    "P003": {
+      "age": 34,
+      "weight": 60,
+      "height": 160,
+      "bmi": 23.4,
+      "address": "789 Pine Road, Austin, TX, 78701"
+    },
+    "P004": {
+      "age": 52,
+      "weight": 95,
+      "height": 180,
+      "bmi": 29.3,
+      "address": "321 Birch Lane, Seattle, WA, 98101"
+    },
+    "P005": {
+      "age": 27,
+      "weight": 55,
+      "height": 162,
+      "bmi": 20.9,
+      "address": "654 Cedar Court, Miami, FL, 33101"
+    }
+  }
+  
