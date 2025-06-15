@@ -11,7 +11,7 @@ class Patient(BaseModel):
 
     @field_validator('email') # This is for custom field data validation
     @classmethod
-    def email_validation(cls,value):
+    def email_validation(cls,value): # This is only for one variable that is applied on single field.
 
         valid_domain = ['icici.com','hdfc.com']
         domain_name = value.split('@')[-1]
